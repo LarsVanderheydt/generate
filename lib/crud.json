@@ -1,0 +1,21 @@
+[
+  {
+    "name": "why",
+    "type": "list",
+    "message": "Why are you here?",
+    "choices": [
+      {
+        "name": "To generate a project",
+        "value": "get"
+      },
+      {
+        "name": "To add a project to the list",
+        "value": "add"
+      },
+      {
+        "name": "To remove a project from the list",
+        "value": "remove"
+      }
+    ]
+  }
+]

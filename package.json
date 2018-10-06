@@ -1,0 +1,17 @@
+{
+  "name": "generate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate manager/generator.",
+  "main": "app.js",
+  "person": "Lars Vanderheydt <lars.vanderheydt@hotmail.com>",
+  "keywords": ["boilerplate" , "generator", "github", "manager"],
+  "author": "Lars Vanderheydt",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "simple-git": "^1.104.0"
+  },
+  "bin": {
+    "generate": "./app.js"
+  }
+}
