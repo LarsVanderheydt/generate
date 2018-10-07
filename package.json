@@ -1,9 +1,10 @@
 {
-  "name": "generate",
+  "name": "lsvt-generate",
   "version": "1.0.0",
   "description": "A simple boilerplate manager/generator.",
   "main": "app.js",
   "person": "Lars Vanderheydt <lars.vanderheydt@hotmail.com>",
+  "repository": "github:LarsVanderheydt/generate",
   "keywords": [
     "boilerplate",
     "generator",
